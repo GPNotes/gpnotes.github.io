@@ -12,7 +12,7 @@
 EDITING
 
 Each row looks like this
-
+|[LINKNAME](URL) | *Description* |`LABEL`|  [1](mirror1) [2](mirror2)| 
 
 
 -->
