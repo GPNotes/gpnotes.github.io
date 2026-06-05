@@ -23,20 +23,11 @@ Each row looks like this
     <td><a href="mirror1">1</a> <a href="mirror2">2</a></td>
 </tr>
 
-
-
-|[LINKNAME](URL) | *Description* |`LABEL`|  [1](mirror1) [2](mirror2)|
-
-Divide sections in the table with a bold single row
-
-| **Title** |
-
-
 Useful labels:
-`PDF`
-`RCHT`
-`Cornwall`
-`PIL`
+<code>PDF</code>
+<code>RCHT</code>
+<code>Cornwall</code>
+<code>PIL</code>
 
 
 Mirror Web Pages / PDFs using:
