@@ -2,7 +2,7 @@
 
 Format links as
 ```
-- [LINKNAME](URL) - DESCRIPTION  <!-- `TAG` [1](MIRROR1) [2](MIRROR2) -->
+- [LINKNAME](URL) [-](MIRROR) DESCRIPTION  <!-- `TAG` [1](MIRROR1) [2](MIRROR2) -->
 ```
 
 Mirror Web Pages / PDFs using:
