@@ -1,4 +1,4 @@
-[source](https://github.com/GPNotes/gpnotes.github.io) | [suggest](https://github.com/GPNotes/gpnotes.github.io/issues/new)
+[source](https://github.com/GPNotes/gpnotes.github.io) / [add](https://github.com/GPNotes/gpnotes.github.io/issues/new) / [about](About.md)
 
 **Contents**
 
